@@ -1,0 +1,10 @@
+<br />
+<br />
+<b><u>Warning:</b></u> <i>imagegif(/backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/../smart_tmp/080820171306_5f7a6f6cafe26f7a32fb28c4c59a2db7): failed to open stream: Permission denied</i> in <b>/backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/sys/lib/image_draw.lib.php</b> on line <b>96</b><br />
+Functions stack:<br />
+- /backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/sys/lib/image_draw.lib.php, line 96 [imagegif()]<br />
+- /backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/subscribers_counter.html, line 141 [generate()]<br />
+<br />
+<b><u>Warning:</b></u> <i>fopen(/backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/../smart_tmp/_counter_cache/118432_0_142147_1_verdana_16_ff0000_1eeeeee): failed to open stream: Permission denied</i> in <b>/backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/subscribers_counter.html</b> on line <b>142</b><br />
+Functions stack:<br />
+- /backup/web2/home/smart/apps/smartresponder/main-production/releases/20161010090416/www/subscribers_counter.html, line 142 [fopen()]
